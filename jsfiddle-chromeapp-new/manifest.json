@@ -1,0 +1,21 @@
+{
+  "name": "jsFiddle",
+  "description": "Online Editor for the Web (JavaScript, MooTools, jQuery, Prototype, YUI, Glow and Dojo, HTML, CSS)",
+  "version": "2.0",
+  "icons": {
+    "16": "jsfiddle-16x16.png",
+    "24": "jsfiddle-24x24.png",
+    "32": "jsfiddle-32x32.png",
+    "48": "jsfiddle-48x48.png",
+    "64": "jsfiddle-64x64.png",
+    "96": "jsfiddle-96x96.png",
+    "128": "jsfiddle-128x128.png"
+  "app": {
+    "urls": [
+      "http://jsfiddle.net/"
+    ],
+    "launch": {
+      "web_url": "http://jsfiddle.net/"
+    }
+  }
+}
